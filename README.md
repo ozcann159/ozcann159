@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 🚀 I'm Elif</h1>
-<h3 align="center">Jr. Developer  <b>
+<h3 align="center">Jr. Developer  <br>
 I've been working to improve myself in the software development field for the past year. I have a passion for learning new concepts and technologies. My motivation is to grow as a person by learning new skills and using what I've learned to solve problems, help others and contribute to the community.
 </h3>
 
