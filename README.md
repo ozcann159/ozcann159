@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
-<h3 align="center">A passionate Jr. Android developer from Turkey</h3>
+<h3 align="center">A passionate Jr. developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **Flutter**
 
 - 📫 How to reach me **ozcann159@gmail.com**
 
