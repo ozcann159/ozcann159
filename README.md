@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 I'm interested in Flutter & Dart<br>📚  I’m currently working onFlutter & Dart<br>📫 How to reach me ozcann159@gmail.com</p>
+<p align="left">👀 I'm interested in Flutter & Dart<br>📚  I’m currently working on Flutter & Dart<br>📫 How to reach me ozcann159@gmail.com</p>
 
 ###
 
