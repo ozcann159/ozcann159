@@ -42,7 +42,10 @@
 
 ###
 ### 📙 Blog Posts
-* [Dart Programming Language Basics for Beginners](https://medium.com/@ozcann159/yeni-ba%C5%9Flayanlar-i%C3%A7in-dart-programlama-dili-temelleri-17ed95cfd71a)
+* [Dart Programming Language Basics for Beginners 1](https://medium.com/@ozcann159/yeni-ba%C5%9Flayanlar-i%C3%A7in-dart-programlama-dili-temelleri-17ed95cfd71a)
+* [Dart Programming Language Basics for Beginners 2](https://medium.com/@elif.ozcan/yeni-ba%C5%9Flayanlar-i%C3%A7in-dart-programlama-dili-temelleri-2-d0708c868f6c)
+* [Dart Programming Language Basics for Beginners 3](https://medium.com/@elif.ozcan/yeni-ba%C5%9Flayanlar-i%C3%A7in-dart-programlama-dili-temelleri-3-83d5368d6e65)
+* [Dart Programming Language Basics for Beginners 4](https://medium.com/@elif.ozcan/yeni-ba%C5%9Flayanlar-i%C3%A7in-dart-programlama-dili-temelleri-4-ce333e0618b7)
 * [Responsive Design in Flutter](https://medium.com/@ozcann159/flutterda-responsive-tasar%C4%B1m-4b53ac4147dc)
 * [What is http? How does it work ? How is studying anatomy?](https://medium.com/@ozcann159/http-nedir-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-%C3%A7al%C4%B1%C5%9Fma-anatomisi-nas%C4%B1ld%C4%B1r-4af53269d90c)
 * [Flutter Theming?](https://medium.com/@ozcann159/flutter-theming-acede13a32c8)
